@@ -1,2 +1,0 @@
-# SkillSync
-"Swipe. Sync. Succeed."
